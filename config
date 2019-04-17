@@ -1,0 +1,5 @@
+#!/bin/bash
+
+HOST="http://localhost:8081"
+
+CREDENTIALS="admin:admin123"
